@@ -8,7 +8,7 @@
 # 2. Ubah dengan teks editor yang ada pada vim contoh: nano/vim
 # 3. Jalankan script ini dan perhatikan output yang dihasilkan.
 # 4. Pahami fungsi dari setiap perintah.
-# 5. Screenshot code dan jalankan outputnta
+# 5. Screenshot code dan jalankan outputnya.
 
 # Contoh Tugas:
 echo "Contoh tugas 1: Informasi Sistem Operasi"
